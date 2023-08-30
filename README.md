@@ -2,13 +2,13 @@
 
 ## Overview
 
-This repository contains a Jupyter Notebook that demonstrates the implementation of a machine learning model for predicting stock prices using Linear Regression. The model has achieved an impressive accuracy of 99.68%, showcasing its capability to make accurate price predictions.
+This repository contains a Jupyter Notebook that demonstrates the implementation of a machine learning model for predicting stock prices using Linear Regression. The model has achieved an impressive accuracy of 91.38%, showcasing its capability to make accurate price predictions.
 
 ## Key Features
 
 - **Linear Regression Model:** The core of this project is a Linear Regression model that learns patterns from historical stock data to predict future prices.
 
-- **High Accuracy:** The model has achieved an impressive accuracy rate of 99.68%, indicating its strong predictive capabilities.
+- **High Accuracy:** The model has achieved an impressive accuracy rate of 91.38%, indicating its strong predictive capabilities.
 
 - **Jupyter Notebook:** The entire project, including data preprocessing, model training, and evaluation, is presented in an interactive Jupyter Notebook for easy understanding and reproducibility.
 
